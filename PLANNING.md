@@ -1,0 +1,35 @@
+# Planning
+
+- Plan your wireframe
+    - What does my app look like from the user's perrspective?
+    - What are the key features and functionalities?
+- Plan your database schema
+    - What data do I need to store?
+    - How will I store it?
+    - What relationships will I have between data?
+    - Based on data, how many tables will I have to work effeciently?
+    - How do I connect the tables? Do I need foreign keys? Do I need junction tables?
+- ** SETUP tables in a database Supabase.
+    - Create a table for users
+    - Create a table for posts
+    - Create a table for comments
+    - Create a table for likes
+    - Create a table for followers
+    - Create a table for posts likes
+    - Create a table for posts comments
+    - Create a table for posts followers
+    - Create a table for comments likes
+    - Use the SQL editor to create your table and seed data(can also use seed.js)
+- Plan your endpoints
+- What data will I be sending and receiving?
+- How will I handle errors and edge cases?
+- Plan your layout
+- How will I structure my components?
+- How will I handle state and props?
+- Plan your routing
+- How will I navigate between pages?
+- How will I handle authentication and authorization?
+- Plan your testing
+- How will I test my app?
+
+- Set up client
