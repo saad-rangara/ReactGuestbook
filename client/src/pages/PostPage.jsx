@@ -64,7 +64,7 @@ export default function PostPage() {
 
     return (
         <>
-            <h1>My Posts</h1>
+            <h1>Guests Posts</h1>
             <div>
                 <label htmlFor="feedbackType">Filter by Feedback Type:</label>
                 <select
